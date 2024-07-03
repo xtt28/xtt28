@@ -1,3 +1,6 @@
+[![xtt28's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtt28&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![xtt28's GitHub trophies](https://github-profile-trophy.vercel.app/?username=xtt28&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 # Hi, I'm [xtt28](https://github.com/xtt28) 👋
 
 I'm a software developer with special interest in full-stack web application development and game modding. My projects utilize a variety of technologies that are consistent with the demands of the ever-changing software field.
