@@ -7,6 +7,10 @@ I'm a software developer with special interest in full-stack web application dev
 
 ## Notable projects
 
+### [Spectrum](https://github.com/xtt28/spectrum)
+
+Identify and analyze trends in any Minecraft server's player count. Spectrum tracking software polls the Java Edition server of your choice and provides you with insights to accelerate your server's growth.
+
 ### [Neptune](https://github.com/xtt28/neptune)
 
 From the ground up, I implemented a classic Minecraft minigame with my own unique twist and published it to the world. The server lets players enjoy creatively designed competitive experiences augmented by reliable software and strong moderation systems.
