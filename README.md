@@ -7,9 +7,9 @@ I'm a software developer with special interest in full-stack web application dev
 
 ## Notable projects
 
-### [Spectrum](https://github.com/xtt28/spectrum)
+### [NFCActions](https://github.com/xtt28/nfcactions)
 
-Identify and analyze trends in any Minecraft server's player count. Spectrum tracking software polls the Java Edition server of your choice and provides you with insights to accelerate your server's growth.
+Control your computer with any NFC tag or card: one tap can launch any website, app or command.
 
 ### [Neptune](https://github.com/xtt28/neptune)
 
