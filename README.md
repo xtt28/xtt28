@@ -1,2 +1,4 @@
-[![xtt28's GitHub stats](https://github-readme-stats.vercel.app/api?username=xtt28&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-[![xtt28's GitHub trophies](https://github-profile-trophy.vercel.app/?username=xtt28&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xtt28&theme=github)
+![Language Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xtt28&theme=github)
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xtt28&theme=github)
+[![xtt28's GitHub trophies](https://github-profile-trophy.vercel.app/?username=xtt28)](https://github.com/ryo-ma/github-profile-trophy)
